@@ -69,3 +69,6 @@ h1 {
 a {
   text-decoration: none;
 }
+.colorize {
+  background-color: lightblue;
+}
